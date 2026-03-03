@@ -1,0 +1,52 @@
+[
+    {
+        "ID": 1,
+        "Name": "MOIZ",
+        "Age": 21,
+        "Text": "Using Fast api and working on Pagination now testing it form Docs!!",
+        "Analyses": [
+            {
+                "analysis_id": 1,
+                "WordCount": 1,
+                "UppercaseCount": 0,
+                "SpecialCharacterCount": 2
+            },
+            {
+                "analysis_id": 2,
+                "WordCount": 1,
+                "UppercaseCount": 0,
+                "SpecialCharacterCount": 2
+            },
+            {
+                "analysis_id": 3,
+                "WordCount": 1,
+                "UppercaseCount": 0,
+                "SpecialCharacterCount": 2
+            },
+            {
+                "analysis_id": 4,
+                "WordCount": 12,
+                "UppercaseCount": 4,
+                "SpecialCharacterCount": 2
+            },
+            {
+                "analysis_id": 5,
+                "WordCount": 12,
+                "UppercaseCount": 4,
+                "SpecialCharacterCount": 2
+            }
+        ]
+    },
+    {
+        "ID": 2,
+        "Name": "Hamza",
+        "Age": 12,
+        "Text": "how to do these ???"
+    },
+    {
+        "ID": 3,
+        "Name": "ALI",
+        "Age": 1,
+        "Text": "User no. 1 !"
+    }
+]
